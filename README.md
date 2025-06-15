@@ -7,11 +7,13 @@
 
 - 🌱 I’m complted learning **Google Data Analytics Professional Certificate, Coursera;Coursera, IBM, SQL; Skill- Python, SQL, Power BI, Excel, DATA Visualisation, Data Analysis**
 
-- 🔭 I’m complted working project on  [TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights](https://github.com/coolsid23/-TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights.git)
+- 🔭 I’m complted working project on [TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights](https://github.com/coolsid23/-TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights.git)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Sidhanta_Behera](https://linktr.ee/Sidhanta_Behera)
+- 👨‍💻 All of my projects are available at [https://github.com/coolsid23](https://github.com/coolsid23)
 
 - 📫 How to reach me **siddhantbehera23@gmail.com**
+
+- 📄 Know about my portfolio [https://linktr.ee/Sidhanta_Behera](https://linktr.ee/Sidhanta_Behera)
 
 - ⚡ Fun fact **I am funny**
 
