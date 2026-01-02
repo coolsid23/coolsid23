@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolsid23&label=Profile%20views&color=0e75b6&style=flat" alt="coolsid23" /> </p>
 
-- 🔭 I’m complted working project on  [Quantium](https://github.com/coolsid23/Quantium.git)
+- 🔭 I’m completed working project on  [Quantium](https://github.com/coolsid23/Quantium.git)
 
-- 🌱 I’m complted learning **Google Data Analytics Professional Certificate, Coursera;Coursera, IBM, SQL; Skill- Python, SQL, Power BI, Excel, DATA Visualisation, Data Analysis**
+- 🌱 I’m completed learning **Google Data Analytics Professional Certificate, Coursera;Coursera, IBM, SQL; Skill- Python, SQL, Power BI, Excel, DATA Visualisation, Data Analysis**
 
-- 🔭 I’m complted working project on [TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights](https://github.com/coolsid23/-TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights.git)
+- 🔭 I’m completed working project on [TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights](https://github.com/coolsid23/-TATA-Data-Visualisation-Empowering_Business_with_Effective_Insights.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/coolsid23](https://github.com/coolsid23)
 
